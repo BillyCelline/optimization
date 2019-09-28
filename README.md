@@ -1,3 +1,3 @@
 # optimization
 
-inexorable anguish over matrix setup for LPs
+unescapable anguish over matrix setup for LPs
